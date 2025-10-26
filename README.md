@@ -38,7 +38,7 @@ Contoh tampilan simulasi proyek NFT:
 ![NFT Case Study](IMG_20251026_162623.png)
 
 ### 💬 Simulasi Diskusi & Analisis
-![Community Discussion](IMG_20251026_162551)
+![Community Discussion](IMG_20251026_162551.png)
 
 ---
 
