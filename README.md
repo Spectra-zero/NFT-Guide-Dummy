@@ -32,13 +32,13 @@ Tujuan utama proyek ini adalah memberikan panduan dan simulasi riset NFT secara 
 Contoh tampilan simulasi proyek NFT:
 
 ### 📊 NFT Dashboard (Visual Dummy)
-![NFT Dashboard](A_2D_digital_dashboard_titled_"NFT_Dashboard"_disp.png)
+![NFT Dashboard](dashboard-nft.png)
 
 ### 📑 Markdown Case Study Preview
-![NFT Case Study](A_screenshot_displays_a_webpage_titled_"NFT_Case_S.png)
+![NFT Case Study](studi-kasus-nft.png)
 
 ### 💬 Simulasi Diskusi & Analisis
-![Community Discussion](A_digital_screenshot_in_the_image_displays_a_Markd.png)
+![Community Discussion](diskusi-komunitas.png)
 
 ---
 
